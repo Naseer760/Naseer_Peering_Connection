@@ -57,8 +57,7 @@ Core routing and connectivity tests have been demonstrated. The App-A address/su
 
 ## Author
 
-**Kalavagadda Naseer**  
-AWS Internship Batch 1  
+**Kalavagadda Naseer**    
 Madanapalle Institute of Technology & Science
 
 
