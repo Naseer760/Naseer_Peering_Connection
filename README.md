@@ -61,6 +61,4 @@ Core routing and connectivity tests have been demonstrated. The App-A address/su
 AWS Internship Batch 1  
 Madanapalle Institute of Technology & Science
 
-## Disclaimer
 
-This repository is for educational purposes. Do not commit private keys, AWS credentials, passwords, or other sensitive information.
